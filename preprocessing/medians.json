@@ -1,0 +1,32 @@
+{
+    "APARTMENT": {
+        "Living area": 95.0,
+        "Bedrooms": 2.0,
+        "Surface of the plot": NaN,
+        "Garden surface": 180.0,
+        "Terrace surface": 15.0,
+        "Number of frontages": 2.0,
+        "Building condition": 2.0,
+        "Kitchen type": 2.0
+    },
+    "HOUSE": {
+        "Living area": 175.0,
+        "Bedrooms": 3.0,
+        "Surface of the plot": 450.0,
+        "Garden surface": 180.0,
+        "Terrace surface": 15.0,
+        "Number of frontages": 3.0,
+        "Building condition": 2.0,
+        "Kitchen type": 1.0
+    },
+    "OTHERS": {
+        "Living area": 267.5,
+        "Bedrooms": 4.0,
+        "Surface of the plot": 424.0,
+        "Garden surface": 180.0,
+        "Terrace surface": 15.0,
+        "Number of frontages": 2.0,
+        "Building condition": 2.0,
+        "Kitchen type": 1.0
+    }
+}

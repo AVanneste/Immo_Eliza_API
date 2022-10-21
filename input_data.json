@@ -1,0 +1,18 @@
+{"data":{
+"area": "100",
+"property_type": "APARTMENT",
+"rooms_number": 3,
+"zip_code": 1030,
+"land_area": 100,
+"garden": true,
+"garden_area": 100,
+"equipped_kitchen": true,
+"full_address": "null",
+"swimming_pool": true,
+"furnished": true,
+"open_fire": true,
+"terrace": true,
+"terrace_area": 100,
+"facades_number": 2,
+"building_state": "NEW"
+}}
